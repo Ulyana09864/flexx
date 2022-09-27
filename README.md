@@ -11,6 +11,7 @@
        
     <p>Мені неймовірно сподобались ігри від flexbox,особливо defense, ну дуже цікаво і зрозуміло.<p>Я з програмуванням взагалі не дружу, але було настільки зрозуміло що я пройшла всі левли без жодної підказки не відриваючись від екрану ноутбука і не помітила як плинув час.<p>Чесно кажучи, без перебільшення, я в захваті. <p>Flukeout взагалі нічого не зрозуміло.  
          
-<p><img src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-Resize-VIZk0d1jUYL.jpg"> 
-  <p><img src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-Resize-Nnv3sHbAsy.jpg"> 
- <p><img src="https://www.imgonline.com.ua/result_img/imgonline-com-ua-Resize-hfDimdOauGoK.jpg">
+<p><img src="https://i.ibb.co/LRRqBm5/Photo-5291966344163606392-w-2-1.jpg"> 
+  <p><img src="https://i.ibb.co/Jskhzr4/image.png"> 
+ <p><img src="https://i.ibb.co/W0mQDGs/photo-5291966344163606487-w.jpg"> 
+   
